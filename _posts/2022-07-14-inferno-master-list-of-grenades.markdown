@@ -25,15 +25,35 @@ categories: jekyll update
 	<summary>Pop B from CT</summary>
 	<img src="/assets/images/cs-gifs/inferno/inferno_flash_pop_b_from_ct.gif">
 </details>
+<details>
+	<summary>Pop banana</summary>
+	<img src="/assets/images/cs-gifs/inferno/inferno_flash_pop_banana.gif">
+</details>
+<details>
+	<summary>Pop boiler</summary>
+	<img src="/assets/images/cs-gifs/inferno/inferno_flash_pop_boiler.gif">
+</details>
+<details> <!-- might wanna change this name -->
+	<summary>Pop B from first corner</summary>
+	<img src="/assets/images/cs-gifs/inferno/inferno_flash_pop_b_first_corner.gif">
+</details>
+<details>
+	<summary>Pop B from first corner</summary>
+	<img src="/assets/images/cs-gifs/inferno/inferno_flash_pop_b_site_from_banana.gif">
+</details>
+<details>
+	<summary>Pop coffins</summary>
+	<img src="/assets/images/cs-gifs/inferno/inferno_flash_pop_coffins.gif">
+</details>
 
 # Molotovs
 
 
-inferno_flash_pop_banana.gif
-inferno_flash_pop_boiler.gif
-inferno_flash_pop_b_first_corner.gif
-inferno_flash_pop_b_site.gif
-inferno_flash_pop_coffins.gif
+
+
+
+
+
 inferno_flash_pop_cross.gif
 inferno_flash_pop_ct.gif
 inferno_flash_pop_library.gif
@@ -42,21 +62,20 @@ inferno_flash_pop_mid.gif
 inferno_flash_pop_short_from_apts.gif
 inferno_flash_short_from_pit.gif
 inferno_flash_support_b.gif
-inferno_flash_support_banana.gif
-inferno_flash_support_banana2.gif
-inferno_flash_support_banana_2.gif
-inferno_flash_support_banana_3.gif
+inferno_flash_support_banana_from_ct_corner.gif
+inferno_flash_support_banana_from_coffin.gif
+inferno_flash_support_banana_from_bottom_mid.gif
 inferno_flash_support_short.gif
-inferno_flash_take_b_2.gif
+inferno_flash_take_b.gif
 inferno_molly_bedroom.gif
 inferno_molly_car.gif
 inferno_molly_clear_banana.gif
 inferno_molly_counter_push_short.gif
 inferno_molly_deep_banana.gif
-inferno_molly_newbox_1.gif
-inferno_molly_newbox_2.gif
+inferno_molly_newbox_safe.gif
+inferno_molly_newbox_easy.gif
 inferno_molly_pit.gif
-inferno_pop_halfwall.gif
+inferno_flash_pop_halfwall.gif
 inferno_positions_on_barrel.gif
 inferno_position_awp_short.gif
 inferno_position_delay_b_execute.gif
@@ -73,8 +92,8 @@ inferno_smoke_fast_banana.gif
 inferno_smoke_front_pit.gif
 inferno_smoke_library.gif
 inferno_smoke_long.gif
-inferno_smoke_mid.gif
-inferno_smoke_mid2.gif
+inferno_smoke_mid_from_t_spawn
+inferno_smoke_mid_for_ct.gif
 inferno_smoke_moto.gif
 inferno_smoke_retake_b.gif
 inferno_smoke_short.gif
