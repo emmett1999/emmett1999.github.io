@@ -32,11 +32,71 @@ categories: jekyll update
 
 # Flashes
 
+<details>
+	<summary>Push B</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_flash_push_b.gif">
+</details>
+<details>
+	<summary>Short from connector</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_flash_short_from_connector.gif">
+</details>
+<details>
+	<summary>Support connector</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_flash_support_connector.gif">
+</details>
+<details>
+	<summary>Support monster</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_flash_support_monster.gif">
+</details>
+<details>
+	<summary>Support short</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_flash_support_short.gif">
+</details>
+<details>
+	<summary>Pop water</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_flash_pop_water.gif">
+</details>
 
 # Molotovs
 
-# Positions
+<details>
+	<summary>Barrels (quicker)</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_molly_barrels.gif">
+</details>
+<details>
+	<summary>Connector (as solo)</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_molly_connector_solo.gif">
+</details>
+<details>
+	<summary>Connector (with duo)</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_molly_connector_with_duo.gif">
+</details>
+<details>
+	<summary>Deep mid</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_molly_deep_mid.gif">
+</details>
+<details>
+	<summary>Divider</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_molly_divider.gif">
+</details>
+<details>
+	<summary>Reagress short</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_molly_reagress_short.gif">
+</details>
+<details>
+	<summary>Short control</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_molly_short_control.gif">
+</details>
+<details>
+	<summary>Barrels (easier)</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_molly_barrels_alternate.gif">
+</details>
+<details>
+	<summary>Take short control</summary>
+	<img src="/assets/images/cs-gifs/overpass/overpass_molly_take_short_control.gif">
+</details>
 
+# Positions
 <!-- TODO: on top of vent back site angle, from voo overpass video -->
 
 <details>
@@ -57,22 +117,6 @@ categories: jekyll update
 </details>
 
 
-overpass_flash_push_b.gif
-overpass_flash_short_from_connector.gif
-overpass_flash_support_connector.gif
-overpass_flash_support_monster.gif
-overpass_flash_support_short.gif
-overpass_flash_pop_water.gif
-overpass_molly_barrels.gif
-overpass_molly_connector_solo.gif
-overpass_molly_connector_with_duo.gif
-overpass_molly_deep_mid.gif
-overpass_molly_divider.gif
-overpass_molly_reagress_short.gif
-overpass_molly_short_control.gif
-overpass_molly_barrels_alternate.gif
 
 
-
-overpass_molly_take_short_control.gif
 overpass_wallbang_bang.gif
