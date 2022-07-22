@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "Inferno grenades"
 date:   2022-07-14 19:37:09 -0500
 categories: jekyll update
 ---
-
-# Grenades
 
 # Smokes
 
@@ -105,8 +103,8 @@ categories: jekyll update
 	<img src="/assets/images/cs-gifs/inferno/inferno_flash_pop_b_first_corner.gif">
 </details>
 <details>
-	<summary>Pop B from first corner</summary>
-	<img src="/assets/images/cs-gifs/inferno/inferno_flash_pop_b_site_from_banana.gif">
+	<summary>Pop B site from banana</summary>
+	<img src="/assets/images/cs-gifs/inferno/inferno_flash_pop_b_site.gif">
 </details>
 <details>
 	<summary>Pop coffins</summary>

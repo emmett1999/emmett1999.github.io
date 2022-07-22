@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Nuke grenades"
 date:   2022-07-17 19:37:09 -0500
 categories: jekyll update

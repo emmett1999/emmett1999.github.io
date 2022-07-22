@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "Mirage grenades"
 date:   2022-07-14 19:37:09 -0500
 categories: jekyll update
 ---
-
-# Grenades
 
 # Smokes
 
